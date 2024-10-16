@@ -1,0 +1,15 @@
+start server
+Server started on port 50052 using       winning_team        country
+0         Scotland          Wales
+1         Scotland          Wales
+2          England          Wales
+3         Scotland          Wales
+4            Wales          Wales
+...            ...            ...
+33258      England        Germany
+33259     Colombia  United States
+33260      Uruguay  United States
+33261        Spain        Germany
+33262    Argentina  United States
+
+[33263 rows x 2 columns]

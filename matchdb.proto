@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+//protobuf messages
+
+message GetMatchCountReq {
+	string country = 1;
+	string winning_team = 2;
+}
+
+message GetMatchCountResp {
+	int32 num_matches = 1;
+}
+
+//Service with RPC call defined
+service MatchCount {
+	rpc GetMatchCount(GetMatchCountReq) returns (GetMatchCountResp);
+}

@@ -1,0 +1,15 @@
+start server
+Server started on port 50051 using       winning_team       country
+0          England      Scotland
+1          England       England
+2         Scotland      Scotland
+3         Scotland       England
+4         Scotland      Scotland
+...            ...           ...
+14131   Kyrgyzstan          Oman
+14132    Hong Kong  Turkmenistan
+14133   Uzbekistan          Iran
+14134   Tajikistan    Tajikistan
+14135      Lebanon         Qatar
+
+[14136 rows x 2 columns]
